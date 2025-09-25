@@ -1,0 +1,25 @@
+# ninja log v6
+24	1290	7804738224773865	CMakeFiles/rasterizer.dir/src/main.cpp.obj	6211b28aff134c35
+36	600	7804738224930493	CMakeFiles/rasterizer.dir/src/texture.cpp.obj	ab778cc84390bbb3
+46	967	7804738225131769	CMakeFiles/rasterizer.dir/src/obj_loader.cpp.obj	5b5a21961b9f10d4
+16	50	7804738202705452	clean	41711b100fa20cb3
+9	43	7804739888746704	clean	41711b100fa20cb3
+49	267	7804739904342185	CMakeFiles/rasterizer.dir/src/stb_image_impl.cpp.obj	41eba9f191aed76d
+28	636	7804739904038750	CMakeFiles/rasterizer.dir/src/texture.cpp.obj	ab778cc84390bbb3
+39	1101	7804739904141428	CMakeFiles/rasterizer.dir/src/obj_loader.cpp.obj	5b5a21961b9f10d4
+17	1418	7804739903936907	CMakeFiles/rasterizer.dir/src/main.cpp.obj	6211b28aff134c35
+1418	4030	7804739917958549	bin/rasterizer.exe	fde5ef58e078fd9d
+10	45	7804752539457718	clean	41711b100fa20cb3
+49	269	7804752554545380	CMakeFiles/rasterizer.dir/src/stb_image_impl.cpp.obj	41eba9f191aed76d
+29	558	7804752554339308	CMakeFiles/rasterizer.dir/src/texture.cpp.obj	ab778cc84390bbb3
+39	972	7804752554441805	CMakeFiles/rasterizer.dir/src/obj_loader.cpp.obj	5b5a21961b9f10d4
+30	944	7804754187174617	CMakeFiles/rasterizer.dir/src/obj_loader.cpp.obj	5b5a21961b9f10d4
+18	1240	7804754187014481	CMakeFiles/rasterizer.dir/src/main.cpp.obj	6211b28aff134c35
+10	44	7804754679888720	clean	41711b100fa20cb3
+49	274	7804754725596981	CMakeFiles/rasterizer.dir/src/stb_image_impl.cpp.obj	41eba9f191aed76d
+29	582	7804754725394239	CMakeFiles/rasterizer.dir/src/texture.cpp.obj	ab778cc84390bbb3
+39	986	7804754725495184	CMakeFiles/rasterizer.dir/src/obj_loader.cpp.obj	5b5a21961b9f10d4
+17	1267	7804754725282560	CMakeFiles/rasterizer.dir/src/main.cpp.obj	6211b28aff134c35
+30	1026	7804755354382680	CMakeFiles/rasterizer.dir/src/obj_loader.cpp.obj	5b5a21961b9f10d4
+17	1275	7804755354126050	CMakeFiles/rasterizer.dir/src/main.cpp.obj	6211b28aff134c35
+1275	3679	7804755366790833	bin/rasterizer.exe	fde5ef58e078fd9d

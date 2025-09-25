@@ -1,0 +1,165 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.29.5-msvc4/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.29.5-msvc4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug/CMakeFiles/3.29.5-msvc4/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/VS2022/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.29/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2Targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2Targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2mainTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2mainTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/SDL2mainTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/sdl2/sdlfind.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "E:/DEV/vcpkg-master/installed/x64-windows/share/glm/glm-config.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/22379/Desktop/rasterizer/out/build/x64-Debug",
+		"source" : "C:/Users/22379/Desktop/rasterizer"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

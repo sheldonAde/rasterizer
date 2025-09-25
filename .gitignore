@@ -1,0 +1,23 @@
+# CMake / build
+/build/
+/bin/
+/CMakeCache.txt
+/CMakeFiles/
+/cmake-build-*/
+
+# VS / IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keep model .obj files tracked! (do NOT ignore *.obj)
